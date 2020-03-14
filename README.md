@@ -18,15 +18,15 @@ Retrofit is a REST Client for Java and Android. Its use is very easy.
 # Screenshot
 
 
-![Alt text](https://github.com/abidanjum2019/TopNewsApp/blob/master/Screenshot-NewsApp.png?raw=true "News API")
+![Alt text](https://github.com/abidanjum2019/TopNewsAppTemplate/blob/master/Screenshot-NewsApp.png?raw=true "News API")
 
 # Clone this project
 
 Clone with HTTPS
-https://github.com/abidanjum2019/TopNewsApp
+https://github.com/abidanjum2019/TopNewsAppTemplate
 
 Clone with SSH
-git@github.com/abidanjum2019/TopNewsApp.git
+git@github.com/abidanjum2019/TopNewsAppTemplate.git
 
 Get your API key
 https://newsapi.org/register
